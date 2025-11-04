@@ -1,2 +1,2 @@
 # CPP-multithreading
-# cpp-multithreading
+# This repositary contain the multi-threading topics in c++.
